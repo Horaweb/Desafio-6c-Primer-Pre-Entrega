@@ -14,7 +14,7 @@ class Producto{
         }
 }
 let productos = [];
-for(let i = 0; i <= 0; i++){
+for(let i = 0; i <= 4; i++){
     let prod = prompt("Ingrese el tipo de producto")
     let prodmarca = prompt("Ingrese la marca del producto")
     let prodprecio = prompt("Ingrese el precio del producto")
